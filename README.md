@@ -30,7 +30,7 @@ Haydi, Türkçe'nin dil işleme yeteneklerini birlikte keşfedelim ve bu alandak
 | Türkçe Doğal Dil İşleme Yarışması 2022 Kamuda Mevzuat Arama Motoru Geliştirme Kategorisi | 1. | L2 Regülasyon | [GitHub](https://github.com/L2-Regulasyon/Teknofest2022) |
 |       | 2. | trtmlteam22 | [GitHub](https://github.com/idurgar/data.ml.teknofest22) |
 |       | 3. | IFL GARAJI 10100 | [GitHub](https://github.com/iflGARAJI10100) |
-| 2020 Serbest Kategori | 1. | Nane&Limon | [GitHub](https://github.com/Teknofest-Nane-Limon) |
+| 2022 Serbest Kategori | 1. | Nane&Limon | [GitHub](https://github.com/Teknofest-Nane-Limon) |
 |       | 2. | TEXT-GEN | Bulunamadı |
 |       | 3. | nlpTurk | [GitHub](https://github.com/nlpturk) |
 | Türkçe Doğal Dil İşleme Yarışması 2023 | 1. | Nane&Limon | [GitHub](https://github.com/Teknofest-Nane-Limon) |
