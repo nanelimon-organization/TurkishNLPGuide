@@ -12,6 +12,6 @@ Son olarak, unutmayın ki bu repo herkesin faydalanabileceği bir kaynaktır ve 
 
 Haydi, Türkçe'nin dil işleme yeteneklerini birlikte keşfedelim ve bu alandaki geleceği birlikte şekillendirelim! 🚀🇹🇷
 
-⭐️ Lütfen bu repoya **star** vermek için üşenmeyelim! ⭐️
+⭐️ Lütfen bu repoya **star** vermeyi unutmayalım! ⭐️
 
 ---
