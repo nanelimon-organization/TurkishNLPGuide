@@ -39,7 +39,6 @@ Haydi, Türkçe'nin dil işleme yeteneklerini birlikte keşfedelim ve bu alandak
 | Araç | [brolin59/trnlp](https://github.com/brolin59/trnlp) | Türkçe NLP için bazı araçlar. | [GitHub](https://github.com/brolin59/trnlp) |
 | Araç | [akoksal/Turkce-Duygu-Takibi](https://github.com/akoksal/Turkce-Duygu-Takibi) | Twitter Türkiye için duygu analizi aracı. | [GitHub](https://github.com/akoksal/Turkce-Duygu-Takibi) |
 | Araç | [MeteHanC/turkishnlp](https://github.com/MeteHanC/turkishnlp) | Basit ama iyi Türkçe NLP araçları. | [GitHub](https://github.com/MeteHanC/turkishnlp) |
-| Araç | [Loodos/zemberek-python](https://github.com/Loodos/zemberek-python) | Zemberek Python. | [GitHub](https://github.com/Loodos/zemberek-python) |
 | Araç | [deeplearningturkiye/kelime_kok_ayirici](https://github.com/deeplearningturkiye/kelime_kok_ayirici) | Derin Öğrenme ile Türkçe kök bulma aracı. | [GitHub](https://github.com/deeplearningturkiye/kelime_kok_ayirici) |
 | Araç | [emres/turkish-deasciifier](https://github.com/emres/turkish-deasciifier) | Türkçe karakter düzeltici. | [GitHub](https://github.com/emres/turkish-deasciifier) |
 | Araç | [google-research/turkish-morphology](https://github.com/google-research/turkish-morphology) | Türkçe için iki seviyeli morfolojik analiz aracı. | [GitHub](https://github.com/google-research/turkish-morphology) |
