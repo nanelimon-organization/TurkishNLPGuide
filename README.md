@@ -4,7 +4,7 @@
 
 #### Dikkat! ⭐
 
-**Bu repoda** 📚 **Türkçe Doğal Dil İşleme (NLP)** alanında kullanabileceğiniz kapsamlı kaynaklara ulaşabilirsiniz. Başlangıç seviyesinden deneyimli profesyonellere kadar herkesin ihtiyaçlarına hitap eden bu depo, güncel ve değerli bilgilere kolay erişim sağlar.
+**Bu repoda** 📚 **Türkçe Doğal Dil İşleme (NLP)** alanında kullanabileceğiniz değerli kaynaklara ulaşabilirsiniz. Burada, **TDDI (Türkçe Doğal Dil İşleme)** alanıyla ilgili güncel ve değerli bilgilere kolayca erişebilirsiniz.
 
 Türkçe'nin dil teknolojileri alanındaki zengin potansiyelini keşfetmek için bu depoyu kullanabilirsiniz. 💡 Teknofest birincilerinin çalışmalarına da yer verilerek, en yeni ve ilgi çekici projeleri keşfetme fırsatı bulabilirsiniz.
 
