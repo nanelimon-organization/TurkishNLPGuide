@@ -2,16 +2,16 @@
 |:---:|
 | ![TR-NLPGUIDE](https://github.com/adssdasda/TurkishNLPGuide/assets/83168207/141df19e-bc32-49ef-bf19-8a29a797bced) |
 
-#### Dikkat! ⭐
+## Dikkat! ⭐
 
-**Bu repoda** 📚 **Türkçe Doğal Dil İşleme (NLP)** alanında kullanabileceğiniz değerli kaynaklara ulaşabilirsiniz. Burada, **TDDI (Türkçe Doğal Dil İşleme)** alanıyla ilgili güncel ve değerli bilgilere kolayca erişebilirsiniz.
+**Bu repo** 📚 **Türkçe Doğal Dil İşleme (NLP)** alanında kullanabileceğiniz değerli kaynaklara erişebilmenizi sağlıyor. Burada, **Türkçe Doğal Dil İşleme** alanıyla ilgili güncel ve değerli bilgilere kolayca ulaşabilirsiniz.
 
-Türkçe'nin dil teknolojileri alanındaki zengin potansiyelini keşfetmek için bu depoyu kullanabilirsiniz. 💡 Teknofest birincilerinin çalışmalarına da yer verilerek, en yeni ve ilgi çekici projeleri keşfetme fırsatı bulabilirsiniz.
+**Türkçe'nin** dil teknolojileri alanındaki zengin potansiyelini keşfetmek için bu repoyu kullanabilirsiniz. 💡 Ayrıca, Teknofest Türkiye birincilerinin çalışmalarına da yer verdim. Böylelikle benzersiz ve heyecan verici projeleri keşfetme imkanı elde edebilirsiniz.
 
-Burada, dil işleme alanında kullanabileceğiniz araçlar 🛠️, kütüphaneler 📚, modeller 🧠 ve veri setleri 🗃️ gibi kaynaklara ulaşabilirsiniz. Bu repo, Türkçe NLP yolculuğunuzda size rehberlik etmeyi amaçlamaktadır.
+Son olarak, unutmayın ki bu repo herkesin faydalanabileceği bir kaynaktır ve katkılarınızla Türkçe Doğal Dil İşleme alanına ve literatürüne önemli katkılarda bulunabilirsiniz. Sizin *contribution (katkı)* sağlamanız diğer insanları etkileyebilir ve ülkemize büyük faydalar sağlayabilir. Bu repo, katkıda bulunabileceğiniz bir ortamdır. Kendi kaynaklarınızı eklemek için **pull request** açarak `contribution` kısmında görünme fırsatını yakalayabilirsiniz. **Türkçe Doğal Dil İşleme** alanına yapacağınız katkılar ülkemize değer katabilir.
 
 Haydi, Türkçe'nin dil işleme yeteneklerini birlikte keşfedelim ve bu alandaki geleceği birlikte şekillendirelim! 🚀🇹🇷
 
-⭐️ **Lütfen bu repoya star vermeyi unutmayın!** ⭐️
+⭐️ Lütfen bu repoya **star** vermek için unutmayın! ⭐️
 
 ---
