@@ -47,6 +47,35 @@ Haydi, Türkçe'nin dil işleme yeteneklerini birlikte keşfedelim ve bu alandak
 | Araç                   | Starlang NLP Araçları                 | Starlang tarafından sağlanan Türkçe NLP araçları.                                                                                         | [Morphological Analysis](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Py), [Spell Checker](https://github.com/StarlangSoftware/TurkishSpellChecker-Py), [Dependency Parser](https://github.com/StarlangSoftware/TurkishDependencyParser-Py), [Deasciifier](https://github.com/StarlangSoftware/TurkishDeasciifier-Py), [NER](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Py) |
 | Araç                   | snnclsr/NER                           | Türkçe Dil için Adlandırılmış Varlık Tanıma sistemi.                                                                                      | [GitHub](https://github.com/snnclsr/ner)                                                                    |
 
+---
+
+<h1 align="center">NLP ~ Makale/Video</h1>
+
+Kategori | Açıklama | Link
+--- | --- | ---
+Articles | Two-level Description of Turkish Morphology | [Link](http://repository.bilkent.edu.tr/bitstream/handle/11693/25941/Two_level_description_of_Turkish_Morphology.pdf?sequence=1)
+Articles | Doğal Dil İşleme İle Türkçe Yazım Hatalarının Denetlenmesi | [Link](https://polen.itu.edu.tr/handle/11527/321)
+Articles | Türkçe ve Doğal Dil İşleme | [Link](https://dergipark.org.tr/en/pub/tbbmd/issue/22245/238795)
+Articles | Doğal Dil İşleme | [Link](https://dergipark.org.tr/en/pub/tbbmd/issue/22245/238797)
+Articles | TÜRKÇE İÇİN DERİN ÖĞRENME TABANLI DOĞAL DİL İŞLEME MODELİ GELİŞTİRİLMESİ | [Link](https://researchgate.net/profile/Adem_Tekerek/publication/332912743_DEVELOPMENT_OF_DEEP_LEARNING_BASED_NATURAL_LANGUAGE_PROCESSING_MODEL_FOR_TURKISH/links/5ddcc338a6fdccdb44656f6e/DEVELOPMENT-OF-DEEP-LEARNING-BASED_NATURAL-LANGUAGE-PROCESSING-MODEL-FOR_TURKISH.pdf)
+Articles | TÜRKÇE OTOMATİK HECELEME SİSTEMİ VE HECE İSTATİSTİKLERİ | [Link](https://akademik.adu.edu.tr/bolum/fef/matematik/webfolders/file/personel/a1005/195.pdf)
+Articles | Türkçe Haber Metinlerinin Konvolüsyonel Sinir Ağları ve Word2Vec Kullanılarak Sınıflandırılması | [Link](https://dergipark.org.tr/en/pub/gazibtd/issue/47484/457917)
+Articles | LSTM Ağları ile Türkçe Kök Bulma | [Link](https://dergipark.org.tr/tr/download/article-file/775805)
+Articles | Türkçe Tweetler Üzerinde Otomatik Soru Tespiti | [Link](https://dergipark.org.tr/tr/download/article-file/605454)
+Articles | Classification of News according to Age Groups Using NLP | [Link](https://dergipark.org.tr/tr/download/article-file/1140110)
+Articles | Açık Kaynak Doğal Dil İşleme Kütüphaneleri | [Link](https://dergipark.org.tr/tr/download/article-file/1573501)
+Articles | Neden yasaklandı? Depremle ilgili Ekşi Sözlük yorumlarına NLP gözüyle bakış | [Link](https://medium.com/p/ce65ece62aea)
+Articles | A collection of brand new datasets for Turkish NLP | [Link](https://medium.com/p/fc83ca3c95df)
+Videos | Uygulamalı Türkçe doğal dil işleme evreleri | [Link](https://www.youtube.com/watch?v=KoQ-_rp07Rg)
+Videos | Türkçe Doğal Dil İşleme - Kemal Oflazer | [Link](https://www.youtube.com/watch?v=CzIUICJXAjY)
+Videos | BOUN - Yapay Öğrenmeye Giriş - İsmail Arı Yaz Okulu 2018 | [Link](https://www.youtube.com/playlist?list=PLMGWwuh6-mEcTODbE22Q1KATHeZYAQTTg)
+Videos | BOUN - Doğal Dil İşleme - İsmail Arı Yaz Okulu 2018 | [Link](https://www.youtube.com/playlist?list=PLMGWwuh6-mEe57iOtf1uo5DgZB288l0CQ)
+Videos | BOUN - Konuşma / İşleme - İsmail Arı Yaz Okulu 2018 | [Link](https://www.youtube.com/playlist?list=PLMGWwuh6-mEdAkjnSLbyUq7Ca21UiSi6F)
+Videos | BOUN - Yapay Öğrenme Yaz Okulu 2020 | [Link](https://www.youtube.com/playlist?list=PLMGWwuh6-mEfmMAUoQZNfEA51RGh7bMyh)
+Videos | Açık Seminer - NLP 101 Doğal Dil İşlemeye Giriş ve Uygulamalı Metin Madenciliği | [Link](https://www.youtube.com/watch?v=tm1K9ZvJXJI)
+Videos | Starlang Yazılım Channel | [Link](https://www.youtube.com/@starlangyazilim/videos)
+Videos | NLP with Duygu | [Link](https://www.youtube.com/@NLPwithDuygu)
+
 
 ---
 
