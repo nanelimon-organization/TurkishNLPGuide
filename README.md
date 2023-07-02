@@ -16,6 +16,30 @@ Haydi, Türkçe'nin dil işleme yeteneklerini birlikte keşfedelim ve bu alandak
 
 ---
 
+<h1 align="center">Teknofest</h1>
+
+
+| Tarih | Derece | Takım Adı | Github Link |
+|-------|--------|-----------|-------------|
+| Türkçe Doğal Dil İşleme Yarışması 2020 | 1. | FİXY | [GitHub](https://github.com/Fixy-TR) |
+|       | 2. | Global Maksimum | [GitHub](https://github.com/GlobalMaksimum) |
+|       | 3. | CLUTCH | Bulunamadı |
+| Türkçe Doğal Dil İşleme Yarışması 2021 | 1. | TDD | [GitHub](https://github.com/tdd-ai) |
+|       | 2. | TURQUEST | [GitHub](https://github.com/TurQuest) |
+|       | 3. | BİLİRKİŞİ | [GitHub](https://github.com/Bilirkisi) |
+| Türkçe Doğal Dil İşleme Yarışması 2022 Kamuda Mevzuat Arama Motoru Geliştirme Kategorisi | 1. | L2 Regülasyon | [GitHub](https://github.com/L2-Regulasyon/Teknofest2022) |
+|       | 2. | trtmlteam22 | [GitHub](https://github.com/idurgar/data.ml.teknofest22) |
+|       | 3. | IFL GARAJI 10100 | [GitHub](https://github.com/iflGARAJI10100) |
+| 2020 Serbest Kategori | 1. | Nane&Limon | [GitHub](https://github.com/Teknofest-Nane-Limon) |
+|       | 2. | TEXT-GEN | Bulunamadı |
+|       | 3. | nlpTurk | [GitHub](https://github.com/nlpturk) |
+| Türkçe Doğal Dil İşleme Yarışması 2023 | 1. | Nane&Limon | [GitHub](https://github.com/Teknofest-Nane-Limon) |
+|       | 2. | Overfit-GM (huggingface) | [Hugging Face](https://huggingface.co/Overfit-GM) |
+|       | 3. | BRAIN-TR (LinkedIn) | [LinkedIn](https://www.linkedin.com/in/brain-tr-a561b7243/) |
+
+
+---
+
 <h1 align="center">Türkçe NLP Kütüphaneleri, Modelleri ve Araçları</h1>
 
 
